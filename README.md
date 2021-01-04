@@ -17,7 +17,7 @@ There are some general programming language, library or service requirements for
  * [Colab](https://medium.com/developer-student-clubs-altinbas/colab-guide-for-beginners-394f66b59d20)
  * ...
 
-## Result
+## 🔥 Result 🔥
 
  ![result](https://github.com/alicenkbaytop/yolov4-tiny-underwater-circle-detection/blob/main/output/output1.png?raw=true)
  
@@ -27,3 +27,4 @@ There are some general programming language, library or service requirements for
 
  * [Creativy ROV Team Simulation](https://drive.google.com/file/d/1Z40BsEu26eAOSFOosafpFV4B2GXjeN63/view)
  * https://www.youtube.com/channel/UC1Y9TVHwzKFyWsk2QEB8ZuA/featured
+ * ...
