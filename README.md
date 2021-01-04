@@ -20,6 +20,7 @@ There are some general programming language, library or service requirements for
 ## Result
 
  ![result](https://github.com/alicenkbaytop/yolov4-tiny-underwater-circle-detection/blob/main/output/output1.png?raw=true)
+ ![video](https://github.com/alicenkbaytop/yolov4-tiny-underwater-circle-detection/blob/main/output/output.avi)
  
 ## 📚 Reference Sources 📚
 
